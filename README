@@ -1,0 +1,7 @@
+Hello!
+
+This is a bunch of miscellaneous code (and their results) that I used for my 2021-2022 Master's Research Project.  Unless you know what a Hadamard matrix is, you are probably in the wrong place.  But if you do happen to also be researching generalisations of Hadamard matrices, the most useful part of my code is probably the Cyctor class, contained in the cyctor.cpp file.  (Sorry it does not have comments.)
+
+Also apologies in advance since I am not a programmer.
+
+Tony
